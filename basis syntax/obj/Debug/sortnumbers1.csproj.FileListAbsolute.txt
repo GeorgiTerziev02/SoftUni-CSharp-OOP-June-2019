@@ -1,0 +1,7 @@
+D:\softuni\fundamentals\more exercise\basis syntax\basis syntax\bin\Debug\basis syntax.exe.config
+D:\softuni\fundamentals\more exercise\basis syntax\basis syntax\bin\Debug\basis syntax.exe
+D:\softuni\fundamentals\more exercise\basis syntax\basis syntax\bin\Debug\basis syntax.pdb
+D:\softuni\fundamentals\more exercise\basis syntax\basis syntax\obj\Debug\sortnumbers1.csprojAssemblyReference.cache
+D:\softuni\fundamentals\more exercise\basis syntax\basis syntax\obj\Debug\sortnumbers1.csproj.CoreCompileInputs.cache
+D:\softuni\fundamentals\more exercise\basis syntax\basis syntax\obj\Debug\basis syntax.exe
+D:\softuni\fundamentals\more exercise\basis syntax\basis syntax\obj\Debug\basis syntax.pdb
