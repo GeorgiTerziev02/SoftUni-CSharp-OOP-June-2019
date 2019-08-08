@@ -1,0 +1,10 @@
+D:\softuni\OOP\Reflection and Attributes - Lab\5CreateAttribute\bin\Debug\netcoreapp2.1\5CreateAttribute.deps.json
+D:\softuni\OOP\Reflection and Attributes - Lab\5CreateAttribute\bin\Debug\netcoreapp2.1\5CreateAttribute.runtimeconfig.json
+D:\softuni\OOP\Reflection and Attributes - Lab\5CreateAttribute\bin\Debug\netcoreapp2.1\5CreateAttribute.runtimeconfig.dev.json
+D:\softuni\OOP\Reflection and Attributes - Lab\5CreateAttribute\bin\Debug\netcoreapp2.1\5CreateAttribute.dll
+D:\softuni\OOP\Reflection and Attributes - Lab\5CreateAttribute\bin\Debug\netcoreapp2.1\5CreateAttribute.pdb
+D:\softuni\OOP\Reflection and Attributes - Lab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.csproj.CoreCompileInputs.cache
+D:\softuni\OOP\Reflection and Attributes - Lab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.AssemblyInfoInputs.cache
+D:\softuni\OOP\Reflection and Attributes - Lab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.AssemblyInfo.cs
+D:\softuni\OOP\Reflection and Attributes - Lab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.dll
+D:\softuni\OOP\Reflection and Attributes - Lab\5CreateAttribute\obj\Debug\netcoreapp2.1\5CreateAttribute.pdb
