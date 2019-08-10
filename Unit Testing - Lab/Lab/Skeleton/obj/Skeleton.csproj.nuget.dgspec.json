@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\softuni\\OOP\\Unit Testing - Lab\\11. CSharp-OOP-Unit-Testing-Lab-Skeleton\\Lab\\Skeleton\\Skeleton.csproj": {}
+  },
+  "projects": {
+    "D:\\softuni\\OOP\\Unit Testing - Lab\\11. CSharp-OOP-Unit-Testing-Lab-Skeleton\\Lab\\Skeleton\\Skeleton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\softuni\\OOP\\Unit Testing - Lab\\11. CSharp-OOP-Unit-Testing-Lab-Skeleton\\Lab\\Skeleton\\Skeleton.csproj",
+        "projectName": "Skeleton",
+        "projectPath": "D:\\softuni\\OOP\\Unit Testing - Lab\\11. CSharp-OOP-Unit-Testing-Lab-Skeleton\\Lab\\Skeleton\\Skeleton.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\softuni\\OOP\\Unit Testing - Lab\\11. CSharp-OOP-Unit-Testing-Lab-Skeleton\\Lab\\Skeleton\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
