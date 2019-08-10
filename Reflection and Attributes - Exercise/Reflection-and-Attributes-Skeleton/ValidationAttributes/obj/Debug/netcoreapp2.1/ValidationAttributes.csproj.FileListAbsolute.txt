@@ -1,0 +1,11 @@
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.deps.json
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.json
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.dev.json
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.dll
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.pdb
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csprojAssemblyReference.cache
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfoInputs.cache
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfo.cs
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.dll
+D:\softuni\OOP\Reflection and Attributes - Exercise\Reflection-and-Attributes-Skeleton\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.pdb
